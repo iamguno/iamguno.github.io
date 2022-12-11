@@ -3,18 +3,19 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Personal info
-name: 이준현 (Lee Jun Hyun)
-title: Back-End Developer
-email: dlwnsgus777@naver.com
-website: https://pro-dev.tistory.com/
+name: 노균호 (Gyun-Ho Roh)
+title: Data Scientist
+email: iamguno@naver.com
+phone: 010-3279-6977
+website: www.github.com/iamguno
 
 # Social links
-github_username: dlwnsgus777
+github_username: iamguno
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: chillwildlife
-linkedin_username: 준현-이-043767168
+linkedin_username: Gyunho Roh
 # pinterest_username: jekyll
 # youtube_username: globalmtb
 # googleplus_username: +jekyll
@@ -23,27 +24,13 @@ linkedin_username: 준현-이-043767168
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  나이 : 30 세 (1993년 생) 
-
-  최종 학력 : 전문대졸 (안산대학교)
-
-  사는 곳 : 인천광역시
-
-
-  병역사항 : 이등병 소집해제 (2015.12 ~ 2018.02) - 산업체 복무 (생산직)
+  [Birth] 1994.10.24
+  [Interested In] Medical DL
+  [Address] Daejeon, Republic of Korea
 
   사용 기술 : <mark>Java</mark> <mark>Spring</mark> <mark>JavaScript</mark> <mark>Node</mark>
 
-  <mark>Back-end</mark> 개발 업무를 하고 있습니다.
-
-  유지 보수하기 쉽고, 지속적으로 성장 가능한 소프트웨어에 관심이 많습니다. 때문에 테스트 작성을 중요하게 생각하고 있으며 
-  현재 테스트 코드 도입을 위해 새로운 프로젝트 진행시 테스트 코드 작성을 병행하며 개발하고 있습니다.
-
-
-
-
-#연락처 : 010 - 3219 - 0466
-
+  
 # Projects Section
 # projects_title: Projects
 
@@ -55,11 +42,6 @@ about_content: | # this will include new lines to allow paragraphs
 
 # test Section
 # test_title: test
-
-# More Section
-more_title: 그 밖에 활동
-more_content: | # this will include new lines to allow paragraphs
-  - [개인 블로그](https://pro-dev.tistory.com/)
 
 # Footer
 footer_show_references: true
