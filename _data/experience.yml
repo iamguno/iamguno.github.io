@@ -1,11 +1,12 @@
 - layout: left
-  company: 엔에이치에스
-  job_title: <mark>Java</mark> <mark>Spring</mark> 백엔드 개발자 / 팀원
-  dates: 2021.05.10 ~ 재직 중
+  company: Konyang University Hospital
+  Health Care Data Science Center
+  job_title: Researcher
+  dates: 2021.05 - Present
   quote: >
 
   description: | # this will include new lines to allow paragraphs
-    - 모두의 노래방 백엔드 개발
+    - Implementation of precision medicine using medical data
 
     - <mark>Spring</mark> <mark>Web Flux</mark> <mark>Data-Jdbc</mark> 기반 서버 API 개발
       - 유저 포스팅 기능 개발
