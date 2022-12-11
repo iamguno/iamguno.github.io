@@ -1,13 +1,9 @@
 - layout: left
-  company:  블록체인 스타트업 현업 개발자와 함께 하는 SW개발 실무
-  qualification: 코멘토
-  dates: 2019. 07 ~ 2019. 08
+  company:  Best Paper Award
   quote: >
     Node, Vue 를 사용한 간단한 채팅프로그램 제작
   description: | # this will include new lines to allow paragraphs
-    - 과제를 수행하고 피드백을 받는 식의 멘토링
-    - 주입식 교육이 아닌 스스로 주어진 과제를 처음부터 해결하는 방법으로 진행해 공부하는 방법에 대한 깊은 생각을 하는 계기가 됨
-    - <mark>Node</mark> <mark>vue</mark> 사용
+    - Korea Artificial-Intelligence Convergence Technology Society(KAICTS), Aug. 2021
     
     
 - layout: left
