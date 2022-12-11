@@ -25,7 +25,9 @@ linkedin_username: Gyunho Roh
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   [Birth] 1994.10.24
+  
   [Interested In] Medical DL
+  
   [Address] Daejeon, Republic of Korea
 
   사용 기술 : <mark>Java</mark> <mark>Spring</mark> <mark>JavaScript</mark> <mark>Node</mark>
