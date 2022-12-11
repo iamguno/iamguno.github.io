@@ -2,23 +2,25 @@
   name: Oral
   description: | # this will include new lines to allow paragraphs
      - SAVE US: Digital Therapeutics for the Management of Drug Side Effects in Korea 
-       - (KMMS : Korea Multimedia Society, 2022 Spring Conference)
+       - (KMMS 2022 : Korea Multimedia Society, 2022 Spring Conference)
       
      - Social Network Analysis and Sentiment Analysis Focused on ‘COVID-19 Vaccination’ 
-       - (2022 KOSMI : The Korean Society of Medical Informatics, 2022 Spring Conference)
-      
+       - (KOSMI 2022 : The Korean Society of Medical Informatics, 2022 Spring Conference)
+       
+     - REHAB NOTE: Sharing Platform based on Open Notes in Rehabilitation Patient
+       - (MITA 2022 : Multimedia Information Technology and Applications, 2022 International Spring Conference)
+     
+     - Evaluation of the quality of mobile apps for monitoring consumer-centered drug side effects
+       - (KOSMI 2021: The Korean Society of Medical Informatics, 2021 Fall Conference)
+     
+     - Covid-19 vaccine : A keyword network analysis of SNS data applying text mining techniques
+       - (KOSMI 2021 : The Korean Society of Medical Informatics, 2021 Fall Conference)
+       
      - Prediction of Survival Rates according to Prognostic Factors for Colorectal Cancer Using Machine Learning 
-       - (2022 KOSMI : The Korean Society of Medical Informatics, 2022 Spring Conference)
+       - (KAICTS 2021 : Korea Artificial-Intelligence Convergence Technology Society , 2021 Summer Conference)
       
 - layout: left
   name: Poster
   description: | # this will include new lines to allow paragraphs
-    * MYSQL,  JavaScript
-    * Spring,  Spring MVC, Spring Security, Spring WebFlux
-    * Linux
-#    * MySQL, MariaDB, PostgreSQL
-#    * Jenkins, TravisCI, AWS Code Deploy
-#    * AWS Beanstalk, AWS SQS, Elastic Cache (Redis), RDS (Aurora), S3, EC2, Cloud Watch
-#    * Nginx, Tomcat
-#    * Pinpoint, Ngrinder
-#    * Linux Centos
+     - SAVE US: Digital Therapeutics for the Management of Drug Side Effects in Korea 
+       - (KSC 2022 : Korea Software Congress, KIISE, 2022 Conference)
