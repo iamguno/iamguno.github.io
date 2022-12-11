@@ -28,7 +28,11 @@
       {%- if site.data.skill.size > 0 -%}         
         {%- include skill.html -%}              
       {%- endif -%}       
-
+      
+      {%- if site.data.awards.size > 0 -%}
+        {%- include awards.html -%}
+      {%- endif -%}
+      
       <!-- {%- if site.data.ability.size > 0 -%}         
         {%- include ability.html -%}              
       {%- endif -%}                                        -->
@@ -45,10 +49,6 @@
       <!-- {%- if site.data.toyproject.size > 0 -%}
         {%- include toyprojects.html -%}
       {%- endif -%} -->
-
-      {%- if site.data.class.size > 0 -%}
-        {%- include class.html -%}
-      {%- endif -%}
 
       {%- if site.more_content -%}
         {%- include more.html -%}
