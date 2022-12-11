@@ -33,21 +33,20 @@
         {%- include awards.html -%}
       {%- endif -%}
       
+      {%- if site.data.presentations.size > 0 -%}
+        {%- include presentations.html -%}
+      {%- endif -%}
+      
       {%- if site.data.ability.size > 0 -%}         
         {%- include ability.html -%}              
-      {%- endif -%}                                        -->
+      {%- endif -%}                         
                                 
-
       {%- if site.data.education.size > 0 -%}         
         {%- include education.html -%}              
       {%- endif -%}
 
       {%- if site.data.projects.size > 0 -%}
         {%- include projects.html -%}
-      {%- endif -%}
-
-      {%- if site.data.toyproject.size > 0 -%}
-        {%- include toyprojects.html -%}
       {%- endif -%}
 
       {%- if site.more_content -%}
