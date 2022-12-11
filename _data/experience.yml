@@ -6,30 +6,13 @@
   quote: >
 
   description: | # this will include new lines to allow paragraphs
-    - Implementation of precision medicine using medical data
-
-    - <mark>Spring</mark> <mark>Web Flux</mark> <mark>Data-Jdbc</mark> 기반 서버 API 개발
-      - 유저 포스팅 기능 개발
-      - 유저 팔로우, 팔로잉 기능 개발
-      - 실시간 검색어 기능 개발
-      - 기프티콘 API 연동 
-      - 댓글, 포스팅 태그 기능 개발
-      - <mark>Influx DB</mark>를 이용한 라이브룸 관제 기능 개발
-      - <mark>Kafka</mark> 컨슈머, 프로듀서 개발 및 <mark>FCM</mark> 연동
-
-    - <mark>Node.js</mark> <mark>Fastify</mark> <mark>Sequelize</mark> 기반 기존 레거시 서버 API 개발
-      - 유저 차단, 신고 기능 개발
-      - 노래 썸네일 수정 기능 개발
-      - 공지사항 crud 기능 개발
-      - 배경화면 crud 기능 개발
-      - 유저 관리 기능 개발
-      - <mark>Socket.io</mark> 를 사용한 소켓 기능 개발
-        - 유저 채팅 기능 개발
-        - 노래 퀴즈 기능 개발
-
-    - <mark>Vue</mark> <mark>Nuxt.js</mark> 를 사용한 관리자 페이지 개발
-    - <mark>GitLab</mark> <mark>K8s</mark> <mark>Helm</mark> 을 사용한 CI/CD 환경 경험
-
+    - Implementation of precision medicine using medical big data
+    - Data science for Pharmacovigilance/Computational Drug Development
+    - Medical Artificial Intelligence
+    - Network Biology & Network Medicine
+    - Medical Big Data Quality Management
+    
+    
 - layout: left
   company: 앤트라인소프트
   job_title: DevOps 개발자 / 팀원
