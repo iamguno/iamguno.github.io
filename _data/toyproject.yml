@@ -2,11 +2,13 @@
   name: Oral
   description: | # this will include new lines to allow paragraphs
      - SAVE US: Digital Therapeutics for the Management of Drug Side Effects in Korea 
-      -(KMMS : Korea Multimedia Society, 2022 Spring Conference)
+       - (KMMS : Korea Multimedia Society, 2022 Spring Conference)
+      
      - Social Network Analysis and Sentiment Analysis Focused on ‘COVID-19 Vaccination’ 
-      -(2022 KOSMI : The Korean Society of Medical Informatics, 2022 Spring Conference)
+       - (2022 KOSMI : The Korean Society of Medical Informatics, 2022 Spring Conference)
+      
      - Prediction of Survival Rates according to Prognostic Factors for Colorectal Cancer Using Machine Learning 
-      -(2022 KOSMI : The Korean Society of Medical Informatics, 2022 Spring Conference)
+       - (2022 KOSMI : The Korean Society of Medical Informatics, 2022 Spring Conference)
       
 - layout: left
   name: Poster
